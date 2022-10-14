@@ -1,3 +1,4 @@
 public static void newMethod(){
 	newMethod();
+	secondMethod();
 }
