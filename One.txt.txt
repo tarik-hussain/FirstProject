@@ -3,4 +3,5 @@ public static void newMethod(){
 	secondMethod();
 	thirdMethod();
 	fourthMethod();
+	fifthMethod();
 }
